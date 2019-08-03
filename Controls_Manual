@@ -1,0 +1,48 @@
+    _=====_                               _=====_
+     / _____ \                             / _____ \
+   +.-'_____'-.---------------------------.-'_____'-.+
+  /   |     |  '.        R  E  V        .'  |  _  |   \
+ / ___| /|\ |___ \                     / ___| /Y \ |___ \
+/ |      |      | ;  __           _   ; | _         _ | ;
+| | <---   ---> | | |__|         |_:> | ||X|       (B)| |
+| |___   |   ___| ;SELECT       START ; |___       ___| ;
+|\    | \|/ |    /  _     ___      _   \    | (A) |    /|
+| \   |_____|  .','" "', |___|  ,'" "', '.  |_____|  .' |
+|  '-.______.-' /       \ANALOG/       \  '-._____.-'   |
+|               |       |------|       |                |
+|              /\       /      \       /\               |
+|             /  '.___.'        '.___.'  \              |
+|            /                            \             |
+ \          /                              \           /
+  \________/                                \_________/
+	
+Gamepad 1
+
+================
+
+*Right Joystick - move right wheel
+
+*Left Joystick - move left wheel
+
+*Left Trigger- Windmill Start
+*Right Trigger- Windmill Extra turn 
+*Dpad up- Set speed power to 100%
+*Dpad down- Set speed power to 100%
+*Dpad left-Set speed power to 100%
+*Dpad right-Set speed power to 100%
+
+gamepad 2
+
+============
+*Button N/A - Claw rise(Solar Panel)
+*Button N/A - Claw down(SOLAR PANEL)
+*Button N/A- Claw Grab( Solar panel)
+*Button N/A - Release claw grip(Solar panel)
+*Botton X - Servo Start
+*Botton Y- Servo Stop
+
+*Dpad up- Lifter up
+*Dpad down- Lifter Down
+*Dpad left-Start of wheel intake
+*Dpad right-Stop of wheel intake
+* Left Stick button- Reverse Servo
